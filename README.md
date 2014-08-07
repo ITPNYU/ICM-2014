@@ -3,8 +3,8 @@ Intro to Computational Media (Fall 2014)
 
 Syllabus
 --------
-- [Main Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2014-All.md)
-- [Tuesday Shiffman Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2014-Shiffman-Tues.md) Note this section is for students with some prior programming experience only. (Advanced programmers should still waive ICM entirely).
+- [Main Syllabus](https://github.com/ITPNYU/ICM-2014/blob/master/Syllabus-2014-All.md)
+- [Tuesday Shiffman Syllabus](https://github.com/ITPNYU/ICM-2014/blob/master/Syllabus-2014-Shiffman-Tues.md) Note this section is for students with some prior programming experience only. (Advanced programmers should still waive ICM entirely).
 
 Listserv
 --------
