@@ -1,4 +1,4 @@
-Intro to Computational Media (Fall 2013)
+Intro to Computational Media (Fall 2014)
 ========================================
 
 Syllabus
