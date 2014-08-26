@@ -8,7 +8,7 @@ Syllabus
 
 Mailing List
 ------------
-- [Roopa Wed ICM google group](_______________) -- this will be used for administrative announcements for our section only.
+- [Roopa Tuesday ICM google group](https://groups.google.com/a/nyu.edu/group/icm-roopa-group) -- this will be used for administrative announcements for our section only.
 - [Main ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) -- this will be used for discussion and questions related to the course content.
 
 Homework
@@ -18,8 +18,8 @@ Homework
 Schedule / Contact
 ------------------
 - Tuesday, 9:00am - 11:55am, Room ##
-- email@email.com
-- [Office Hours Sign Up](______)
+- [roopa.vasudevan@nyu.edu](mailto:roopa.vasudevan@nyu.edu)
+- [Office Hours Sign Up](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY)
 
 Requirements
 ------------
@@ -33,15 +33,15 @@ Requirements
 
 Class Dates (all Wednesdays)
 -----------
-- Week 1: September 3
-- Week 2: September 10
-- Week 3: September 17
-- Week 4: September 24
-- Week 5: October 1
-- Week 6: October 8
-- Week 7: October 15
-- Week 8: October 22
-- Week 9: October 29
-- Week 10: November 5
-- Week 11: November 12
-- Week 12: November 19
+- Week 1: September 2
+- Week 2: September 9
+- Week 3: September 16
+- Week 4: September 23
+- Week 5: September 30
+- Week 6: October 7
+- Week 7: October 21
+- Week 8: October 28
+- Week 9: November 4
+- Week 10: November 11
+- Week 11: November 18
+- Week 12: November 25
