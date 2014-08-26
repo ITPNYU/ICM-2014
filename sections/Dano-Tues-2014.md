@@ -1,4 +1,4 @@
-Daniel O'Sullivan Tuesday Section Info -- ICM 2014
+Daniel O'Sullivan ICM 2014
 ========================================
 
 Syllabus

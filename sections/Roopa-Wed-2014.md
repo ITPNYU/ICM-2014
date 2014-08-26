@@ -1,4 +1,4 @@
-Roopa Vasudevan Wednesday Section Info -- ICM 2014
+Roopa Vasudevan ICM 2014
 ========================================
 
 Syllabus

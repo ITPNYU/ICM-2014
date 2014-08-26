@@ -1,4 +1,4 @@
-Danny Rozin Section Info -- ICM 2014
+Danny Rozin ICM 2014
 ========================================
 
 Syllabus

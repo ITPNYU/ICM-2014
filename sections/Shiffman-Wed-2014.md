@@ -1,4 +1,4 @@
-Daniel Shiffman Wednesday Section 2014
+Daniel Shiffman Wednesday ICM 2014
 ========================================
 
 Syllabus

@@ -1,4 +1,4 @@
-Mimi Yin Section Info -- ICM 2014
+Mimi Yin ICM 2014
 ========================================
 
 Syllabus
