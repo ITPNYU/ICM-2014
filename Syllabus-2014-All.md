@@ -8,7 +8,7 @@ Introduction to Computational Media Syllabus
 
 Section Pages and Homework Wikis
 --------------------------------
-- Roopa, Tuesday, 9:00-11:55am:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Roopa-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Roopa-Tuesday)
+- Roopa, Tuesday, 9:00-11:55am:  [Section Info](https://github.com/ITPNYU/ICM-2014/blob/master/sections/Roopa-Wed-2014.md), [Section Homework](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Roopa-Tuesday)
 - Shiffman, Tuesday, 12:10-3:05pm: This section is for students with prior programming experience and has a different syllabus.  See [Tuesday Shiffman Syllabus](https://github.com/ITPNYU/ICM-2014/blob/master/Syllabus-2014-Shiffman-Tues.md)
 - Dano, Tuesday, 12:10-3:05pm:  [Section Info](https://github.com/ITPNYU/ICM-2014/blob/master/sections/Dano-Tues-2014.md), [Section Homework](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Dano-Tuesday)
 - Danny, Wednesday, 9:00-11:55am and 3:20-6:15pm:  [Section Info](https://github.com/ITPNYU/ICM-2014/blob/master/sections/Rozin-Wed-2014.md), [Morning Homework](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Rozin-Wed_Morning), [Afternoon Homework](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Rozin-Wed-afternoon)
@@ -21,7 +21,7 @@ Week 1 -- Introduction and Drawing
 - Algorithmic Thinking
 - What is Processing?  Why Processing?
 - Server-side vs. client programming
-- [Things made with Processing](https://github.com/ITPNYU/ICM-2013/wiki/Projects)
+- [Things made with Processing](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
 - Drawing with numbers
 - Processing's screen coordinates
 - Processing's drawing and color functions
