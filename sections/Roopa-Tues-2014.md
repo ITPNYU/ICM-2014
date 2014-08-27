@@ -27,11 +27,11 @@ Requirements
 
 - Grading (pass/fail) will be based on a combination of factors:
     - Attendance, participation in class discussion, and engagement in other students' projects (25%)
-    - Quality of weekly assignments (50%) 
+    - Quality of weekly assignments (50%)
     - Final Project (25%)
     - Personal progress; how much did you advance from your initial state in this class.
 
-Class Dates (all Wednesdays)
+Class Dates (all Tuesdays)
 -----------
 - Week 1: September 2
 - Week 2: September 9
