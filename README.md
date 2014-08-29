@@ -13,7 +13,7 @@ Listserv
 Downloading Processing
 ----------------------
 
-- [Download Processing 2.0](http://www.processing.org/download/)
+- [Download Processing](http://www.processing.org/download/).  This year we'll be using the pre-releases of Processing 3.0.  To download 3, scroll down to the bottom of the download page or visit [this direct github link](https://github.com/processing/processing/releases/tag/processing-0230-3.0a3). 
 
 Section Pages and Homework Wikis
 --------------------------------
