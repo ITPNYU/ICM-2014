@@ -13,7 +13,7 @@ Mailing List
 
 Homework
 --------
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Roopa-Wednesday): This is where you post links to your weekly assignments
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Roopa-Tuesday): This is where you post links to your weekly assignments
 
 Schedule / Contact
 ------------------
