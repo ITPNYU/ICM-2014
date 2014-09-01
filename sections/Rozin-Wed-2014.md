@@ -35,6 +35,12 @@ Requirements
 Class Dates (all Wednesdays)
 -----------
 - Week 1: September 3
+    - [Slides from class](https://docs.google.com/presentation/d/1625s7b1eRyQE44NMxdRlbX5_t0OCbELBaUqFdElq9js)
+    - [Coordinate system drawing sheet](http://itp.nyu.edu/~dr99/ICM/coords_sheet.pdf)
+    - [My website - smoothware.com](http:smoothware.com)
+     - [Weave Mirror video](https://vimeo.com/7067089)
+     - [Snow Mirror](http://www.youtube.com/watch?v=jZhFRTeY8Cs)
+     - [Mirrors Mirror](http://www.youtube.com/watch?v=tRDfO9K392E)
 - Week 2: September 10
 - Week 3: September 17
 - Week 4: September 24
