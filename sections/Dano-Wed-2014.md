@@ -13,11 +13,11 @@ Mailing List
 
 Homework
 --------
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Dano-Tuesday): This is where you post links to your weekly assignments
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Dano-Wednesday): This is where you post links to your weekly assignments
 
 Schedule / Contact
 ------------------
-- Tuesday, 12:10pm - 3:05pm, Room ________
+- Wednesday, 12:10pm - 3:05pm, Room 445
 - dan.osullivan@nyu.edu
 - [Office Hours Sign Up](https://www.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
 
@@ -31,17 +31,17 @@ Requirements
     - Final Project (25%)
     - Personal progress; how much did you advance from your initial state in this class.
 
-Class Dates (all Tuesdays)
+Class Dates (all Wednesdays)
 -----------
-- Week 1: September 2
-- Week 2: September 9
-- Week 3: September 16
-- Week 4: September 23
-- Week 5: September 30
-- Week 6: October 7
-- Week 7: October 21
-- Week 8: October 28
-- Week 9: November 4 
-- Week 10: November 11
-- Week 11: November 18
-- Week 12: November 25
+- Week 1: September 3
+- Week 2: September 10
+- Week 3: September 17
+- Week 4: September 24
+- Week 5: October 1
+- Week 6: October 8
+- Week 7: October 22
+- Week 8: October 29
+- Week 9: November 5 
+- Week 10: November 12
+- Week 11: November 19
+- Week 12: November 26
