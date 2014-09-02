@@ -3,7 +3,7 @@ Roopa Vasudevan ICM 2014
 
 Syllabus
 --------
-- [Main Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2014-All.md)
+- [Main Syllabus](https://github.com/ITPNYU/ICM-2014/blob/master/Syllabus-2014-All.md)
 - [General ICM Page](https://github.com/ITPNYU/ICM-2014/blob/master/README.md): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
 
 Mailing List
@@ -17,9 +17,9 @@ Homework
 
 Schedule / Contact
 ------------------
-- Tuesday, 9:00am - 11:55am, Room ##
+- Tuesday, 9:00am - 11:55am, Room 20
 - [roopa.vasudevan@nyu.edu](mailto:roopa.vasudevan@nyu.edu)
-- [Office Hours Sign Up](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY)
+- [Office Hours Sign Up: Thursdays, 6:30-8:30](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY). If none of these times work or everything is unavailable, email me for office hours by appointment.
 
 Requirements
 ------------
@@ -30,6 +30,13 @@ Requirements
     - Quality of weekly assignments (50%)
     - Final Project (25%)
     - Personal progress; how much did you advance from your initial state in this class.
+
+Resources
+------------
+- [ICM Video Series](http://icm.shiffman.net)
+- [Processing Reference](http://processing.org/reference)
+- [Residents' Blog](http://itp.nyu.edu/residents)
+- [Learning Processing Github Repo](https://github.com/shiffman/LearningProcessing)
 
 Class Dates (all Tuesdays)
 -----------
