@@ -43,7 +43,8 @@ Week 1 -- Introduction and Drawing
     - Chapters 1-2 from [Learning Processing](http://www.learningprocessing.com).
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Downloading Processing
-   - [Download Processing](http://www.processing.org/download/).  This year we'll be using the pre-releases of Processing 3.0.  To download 3, scroll down to the bottom of the download page or visit [this direct github link](https://github.com/processing/processing/releases/tag/processing-0230-3.0a3). - Homework
+   - [Download Processing](http://www.processing.org/download/).  This year we'll be using the pre-releases of Processing 3.0.  To download 3, scroll down to the bottom of the download page or visit [this direct github link](https://github.com/processing/processing/releases/tag/processing-0230-3.0a3). 
+- Homework
     - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
     - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.

@@ -17,16 +17,11 @@ Section Pages and Homework Wikis
 Week 1 -- Introduction and Drawing
 ----------------------------------
 - Why are we here? What is computational media?  What is programming? What is it good for? What kinds of programming languages are there?
-- Algorithmic Thinking
 - What is Processing?  Why Processing?
 - Server-side vs. client programming
 - [Things made with Processing](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
 - Drawing with numbers
 - Processing's screen coordinates
-- Processing's drawing and color functions
-    - [rect() and rectMode() demo](http://itp.nyu.edu/~ck987/rectDemo/)
-    - [ellipse() and ellipseMode() demo](http://itp.nyu.edu/~ck987/ellipseDemo/)
-    - [fill() greyscale and color demo](http://itp.nyu.edu/~ck987/colorDemo/)
 - [Processing reference](http://processing.org/reference)
 - Running your application
 - Exporting: application, android, javascript
@@ -41,13 +36,8 @@ Week 1 -- Introduction and Drawing
     - Chapters 1-2 from [Learning Processing](http://www.learningprocessing.com).
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Downloading Processing
-    - Download [Processing 2.0](http://www.processing.org/download/) 
-- Homework
-    - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
-    - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
-    - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
-    - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2014/wiki).  Follow the guidelines provided on the wiki.
-    - Examples: https://github.com/shiffman/LearningProcessing -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
+   - [Download Processing](http://www.processing.org/download/).  This year we'll be using the pre-releases of Processing 3.0.  To download 3, scroll down to the bottom of the download page or visit [this direct github link](https://github.com/processing/processing/releases/tag/processing-0230-3.0a3). 
+- Do [this week's homework as described on wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Shiffman-Tuesday)
 
 Week 2 -- Animation and Interaction
 -----------------------------
@@ -310,4 +300,4 @@ Week 11 -- One on one speed user testing / feedback
 
 Week 12 -- Final Project Presentations
 -----------------------------
-- Please add your link to your final project documentation on your section's wiki.
+- Please add your link to your final project documentation on your section's wiki.  
