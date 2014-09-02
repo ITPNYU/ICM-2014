@@ -52,6 +52,7 @@ Resources
 - [Processing Twitter](https://twitter.com/ProcessingOrg)
 - [Processing Github](https://github.com/processing)
 - [Open Processing](http://www.openprocessing.org/)
+- [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)
 
 Mantras By James
 ----------------
