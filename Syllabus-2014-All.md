@@ -38,7 +38,7 @@ Week 1 -- Introduction and Drawing
 - Watch
     - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
     - [Video Lessons](http://icm.shiffman.net/) 0.0-2.1 duplicate what we will cover in class.  Watch 3.0-4.3 to preview next week's content.
-    - [Hello Processing](http://hello.processing.org/) This is one hour introduction to Processing that summarizes the content from the first two weeks of ICM.  You might choose this over the other videos or wait until the second week to watch this one.
+    - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch. 
 - Related Reading
     - Chapters 1-2 from [Learning Processing](http://www.learningprocessing.com).
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
