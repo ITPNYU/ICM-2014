@@ -40,7 +40,7 @@ Resources
 
 Class Dates (all Tuesdays)
 -----------
-- Week 1: September 2
+- Week 1: September 2 ([Slides here](https://docs.google.com/presentation/d/1m72YyYneOWNlsFl_7OLLm8yzKbvKymZmWNruuwx-WrY/edit?usp=sharing))
 - Week 2: September 9
 - Week 3: September 16
 - Week 4: September 23
