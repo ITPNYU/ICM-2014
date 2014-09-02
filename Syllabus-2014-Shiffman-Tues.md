@@ -37,7 +37,7 @@ Week 1 -- Introduction and Drawing
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Downloading Processing
    - [Download Processing](http://www.processing.org/download/).  This year we'll be using the pre-releases of Processing 3.0.  To download 3, scroll down to the bottom of the download page or visit [this direct github link](https://github.com/processing/processing/releases/tag/processing-0230-3.0a3). 
-- Do [this week's homework as described on wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Shiffman-Tuesday)
+- Do [this week's homework as described on wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Shiffman-Tuesday).
 
 Week 2 -- Animation and Interaction
 -----------------------------
