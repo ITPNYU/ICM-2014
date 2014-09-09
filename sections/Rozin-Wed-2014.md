@@ -42,6 +42,7 @@ Class Dates (all Wednesdays)
      - [Snow Mirror](http://www.youtube.com/watch?v=jZhFRTeY8Cs)
      - [Mirrors Mirror](http://www.youtube.com/watch?v=tRDfO9K392E)
 - Week 2: September 10
+  - [Slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1kBbqHpAWHFVHfTetObZ2CEd2OwlUL6AufV0EJtrr7Ws/edit#slide=id.g238ecdcb_2_127)
 - Week 3: September 17
 - Week 4: September 24
 - Week 5: October 1
