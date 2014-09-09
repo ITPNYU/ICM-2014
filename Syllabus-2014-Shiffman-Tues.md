@@ -43,7 +43,7 @@ Week 2 -- Animation and Interaction
 -----------------------------
 - [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing/tree/master/chp03_flow)
 - Variation: mouseX,mouseY
-- Variables: Declare, Initialize, Use: https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables
+- [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables)
 - [random()](http://processing.org/reference/random_.html)
 - [map()](http://processing.org/reference/map_.html) 
 - [Conditionals](https://github.com/shiffman/LearningProcessing/tree/master/chp05_conditionals)
