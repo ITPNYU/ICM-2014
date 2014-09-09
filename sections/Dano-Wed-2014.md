@@ -15,6 +15,9 @@ Homework
 --------
 - [Homework Wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Dano-Wednesday): This is where you post links to your weekly assignments
 
+Links
+--------
+[Debugging]( https://vimeo.com/channels/debugging)
 Schedule / Contact
 ------------------
 - Wednesday, 12:10pm - 3:05pm, Room 445
