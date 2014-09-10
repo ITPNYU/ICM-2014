@@ -8,7 +8,7 @@ Syllabus
 
 Mailing List
 ------------
-- [Our Section's Google Group](_________________) -- this will be used for administrative announcements for our section only.
+- [Our Section's Google Group](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/icm) -- this will be used for administrative announcements for our section only.
 - [Main ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) -- this will be used for discussion and questions related to the course content.
 
 Homework
