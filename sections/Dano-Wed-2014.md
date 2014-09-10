@@ -48,3 +48,33 @@ Class Dates (all Wednesdays)
 - Week 10: November 12
 - Week 11: November 19
 - Week 12: November 26
+
+
+Notes: Week 2
+
+Variation.
+Your static pictures are using variables.
+Difference between Descrete and Combinatorial System.
+Why is it static because you used hard numbers instead of variables
+Variables Take time to understand how to use.  Storage, Memorables.  
+What do you want to vary.  X,Y,Z ,  difficulty, sadness, luck
+
+What Can you express with variables that you could not express with a static or predestined system
+
+Universal Machine,  Reflect human change IA  mousex
+
+What if the the code became a variable and the machine could change that?  AI
+
+Holodeck What are the variables of story.
+
+Variables keep track of things of time. 
+
+And because there is not life or time to the program.
+
+Code Blocks, Paragraphs,  Non Linearity
+
+Stay in the present moment.
+The most things that make money in this world are about do better than chance at predicting or creating the future.
+Declare the type of variable
+Initialize variable
+Vary the Variable
