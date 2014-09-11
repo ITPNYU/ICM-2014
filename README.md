@@ -53,6 +53,7 @@ Resources
 - [Processing Github](https://github.com/processing)
 - [Open Processing](http://www.openprocessing.org/)
 - [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)
+- [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
 
 Mantras By James
 ----------------
