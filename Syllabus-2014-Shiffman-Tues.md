@@ -95,8 +95,10 @@ Week 3 --  Functions & Objects: Part 1
 - Related Reading
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
-- Homework
-    - Re-organize the code of a previous assignment or example using functions.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)
+- Homework: The goal for this week is to start organizing your code into modular and reusable parts.  If you are experienced with object-oriented programming, you might just start by creating a program with classes.  However, if this is new to you it's often a good idea to just start by playing with functions.  Some exercise ideas for you to pick from:
+    - Take a previous assignment with code in `setup()` and `draw()` and break everything out into separate function.
+    - Take the idea for a design and break it out into its own function.   Add parameters to the function so the design can be drawn differently based on the selected parameters. Draw three or more instances of the design on the screen to show the differences possible by changing the parameters.  
+    - Create a design from a recursive function.  How could you animate or change this design over time?  Can you make it interactive or have it controlled by `noise()`?
 
 Week 4 -- Functions & Objects Part 2
 -----------------------------
