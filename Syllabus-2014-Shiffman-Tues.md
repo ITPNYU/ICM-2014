@@ -97,8 +97,8 @@ Week 3 --  Functions & Objects: Part 1
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework: The goal for this week is to start organizing your code into modular and reusable parts.  If you are experienced with object-oriented programming, you might just start by creating a program with classes.  However, if this is new to you it's often a good idea to just start by playing with functions.  Some exercise ideas for you to pick from:
     - Take a previous assignment with code in `setup()` and `draw()` and break everything out into separate function.
-    - Take the idea for a design and break it out into its own function.   Add parameters to the function so the design can be drawn differently based on the selected parameters. Draw three or more instances of the design on the screen to show the differences possible by changing the parameters.  
-    - Create a design from a recursive function.  How could you animate or change this design over time?  Can you make it interactive or have it controlled by `noise()`?
+    - Take the idea for a design and break it out into its own function.   Add parameters to the function so the design can be drawn differently based on the selected parameters. Draw three or more instances of the design on the screen to show the differences possible by changing the parameters.  [Here is the Robot example referred to in class](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week4-functions/modularize_drawing)
+    - Create a design from a recursive function.  How could you animate or change this design over time?  Can you make it interactive or have it controlled by `noise()`?  [Here are some samples as demonstrated in class](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week4-functions/recursion).
 
 Week 4 -- Functions & Objects Part 2
 -----------------------------
