@@ -19,7 +19,7 @@ Schedule / Contact
 ------------------
 - Tuesday, 9:00am - 11:55am, Room 20
 - [roopa.vasudevan@nyu.edu](mailto:roopa.vasudevan@nyu.edu)
-- [Office Hours Sign Up: Thursdays, 6:30-8:30](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY). If none of these times work or everything is unavailable, email me for office hours by appointment.
+- [Office Hours Sign Up: Thursdays, 6:00-8:00pm](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY). If none of these times work or everything is unavailable, email me for office hours by appointment.
 
 Requirements
 ------------
