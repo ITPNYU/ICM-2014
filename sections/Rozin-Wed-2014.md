@@ -12,7 +12,7 @@ Mailing List
 
 Homework
 --------
-- [Homework Wiki for morning section](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Rozin-Wed-morning): This is where you post links to your weekly assignments
+- [Homework Wiki for morning section](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Rozin-Wed_Morning): This is where you post links to your weekly assignments
 - [Homework Wiki for afternoon section](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Rozin-Wed-afternoon): This is where you post links to your weekly assignments
 
 
