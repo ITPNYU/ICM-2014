@@ -3,7 +3,7 @@ Mimi Yin ICM 2014
 
 Syllabus
 --------
-- [Main Syllabus](https://github.com/ITPNYU/ICM-2014/blob/master/Syllabus-2013-All.md)
+- [Main Syllabus](https://github.com/ITPNYU/ICM-2014/blob/master/Syllabus-2014-All.md)
 - [General ICM Page](https://github.com/ITPNYU/ICM-2014/blob/master/README.md): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
 
 Mailing List
