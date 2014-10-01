@@ -91,6 +91,114 @@ Boolean buttonBeingPressed(int x, int y, int w, int h) {
   }
 }
 - Week 5: October 1
+- 
+
+Ball[ ] manyBabyHolder;
+int placeToAddInArray = 0;
+
+Monster myBabyEater;
+
+void setup() {
+  size(800, 600);
+  manyBabyHolder = new Ball[1000];
+  
+  ///for(int i =0 ; i < manyBabyHolder.length ; i++){
+    // manyBabyHolder[i] = new Ball(int(random(width)),int( random(height)));  //birth
+  //}
+  myBabyEater = new Monster();
+}
+
+void draw() {
+  background(255);
+
+ for(int i =0 ; i < manyBabyHolder.length; i++){
+   Ball thisBaby = manyBabyHolder[i];
+   if (thisBaby != null){
+     thisBaby.drawIt();
+    thisBaby.move();
+    thisBaby.checkStuff();
+   }
+ }
+
+
+  myBabyEater.drawIt();
+  myBabyEater.move();
+  myBabyEater.checkStuff();
+
+  
+ // if (dist(littleBaby.x, littleBaby.y, myBabyEater.x, myBabyEater.y) < 10) {
+    //they have collided
+   
+ // }
+}
+
+void mousePressed(){
+  //birt a new 
+  
+  manyBabyHolder[placeToAddInArray] = new Ball(int(random(width)),int( random(height)));  //birth
+  placeToAddInArray++;
+  
+}
+
+class Ball {
+
+  int x = 0;
+  int y = 0;
+  int xdir = 1;
+  int ydir =1;
+  int speed = 5;
+
+
+  Ball(int _x, int _y) {
+    x = _x;
+    y = _y;
+  }
+
+  void drawIt() {
+    ellipse(x, y, 10, 10);
+  }
+  
+    void move() {
+    x = x + xdir*speed;
+    y = y + ydir*speed;
+  }
+  void checkStuff() {
+    if ( x > width || x < 0) {
+      xdir = -xdir;
+    }
+    if ( y > height || y < 0) {
+      ydir = -ydir;
+    }
+  }
+}
+
+
+class Monster {
+
+  int x = 0;
+  int y = 0;
+  int xdir = 1;
+  int ydir =1;
+  int speed = 5;
+
+  void drawIt() {
+    rect(x, y, 10, 10);
+  }
+  void move() {
+    x = x + xdir*speed;
+    y = y + ydir*speed;
+  }
+  void checkStuff() {
+    if ( x > width || x < 0) {
+      xdir = -xdir;
+    }
+    if ( y > height || y < 0) {
+      ydir = -ydir;
+    }
+  }
+}
+
+
 - Week 6: October 8
 - Week 7: October 22
 - Week 8: October 29
