@@ -133,10 +133,12 @@ Week 5 -- Repetition and Reproduction
 - Homework
     - Using arrays and/or ArrayLists, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new). Here are some additional ideas if you are stuck.
         - Experiment with the resizable nature of ArrayLists.  Can you add objects one at a time?  Remove them after a certain amount of time or when they leave the screen?  Can objects from on ArrayList trigger the birth of other objects?
-        - Create an object that stores the history of its own path.  This might be a drawing program where you keep a history of mouse locations in an ArrayList or a shape that moves around the screen autonomously and draws its own trail.  Can you have an ArrayList of these objects (each of which tracks its own ArrayList?).
+        - Create an object that stores the history of its own path.  This might be a drawing program where you keep a history of mouse locations in an ArrayList or a shape that moves around the screen autonomously and draws its own trail.  Can you have an ArrayList of these objects (each of which tracks its own ArrayList?). [Some examples as demonstrated in class](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week6-arrays/history)
+        - Once you have an array of objects, you can have each object check every other object with a nested loop.  Try incorporating this idea into a sketch by having objects react to intersecting with others. [Example demonstrated in class](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week6-arrays/object_communication_nested)
         - A String is like an array of characters.  Can you create a sketch that plays with text by looping through the "array" inside a String.  See: [charAt()](http://processing.org/reference/String_charAt_.html)
         - A PImage contains an array of pixels.  Experiment with image processing by looping through all the pixel colors of an image.  This [tutorial](http://processing.org/tutorials/pixels/) will help you get started.
         - Create a system that involves a two dimensional grid.  Use a 2D array to store the data of this system.  This [tutorial](http://processing.org/tutorials/2darray/) will help you get started.
+        - Processing includes other data structures to store information with functionality above and beyond an array.  Some examples are [IntList](http://www.processing.org/reference/IntList.html) and [IntDict](http://processing.org/reference/IntDict.html).  A common use of IntDict is storing the number of times words appear in a document.  Try using one of these data structures in the development of a sketch.
 
 Week 6 -- Vectors and Simulation
 --------------------------------
