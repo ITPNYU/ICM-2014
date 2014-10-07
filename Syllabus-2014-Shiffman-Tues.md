@@ -148,9 +148,9 @@ Week 6 -- Vectors and Simulation
       - [Chapter 2: The Nature of Code](http://natureofcode.com/book/chapter-2-forces/)
   - Physics libraries
       - [Chapter 5: The Nature of Code](http://natureofcode.com/book/chapter-5-physics-libraries/)
-      - [PBox2D](https://github.com/shiffman/PBox2D)
+      - [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing)
       - [http://www.ricardmarxer.com/fisica/](Fisica)
-      - [ToxicLibs VerletPhysics](http://toxiclibs.org/)
+      - [VerletPhysics with Toxiclibs](http://toxiclibs.org/)
   - Steering behaviors and emergent phenomona
       - [Braitenberg Vehicles](http://books.google.com/books/about/Vehicles.html?id=7KkUAT_q_sQC)
       - [Craig Reynolds](http://www.red3d.com/cwr/steer/)
