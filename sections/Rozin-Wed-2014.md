@@ -50,6 +50,8 @@ Class Dates (all Wednesdays)
 - Week 5: October 1
    - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T8datPOS_RVG7LrTV8DClDbmfR_kYAwukSnnkjiOfRA/edit#slide=id.g2e49a6a3_2_153)
 - Week 6: October 8
+ - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T-ivUi706s9zlBvAiXvwRvpu8UDspoD4Foad3XgJOOQ)
+ - See our homework wiki for pairs and instructions for this week's homework
 - Week 7: October 15
 - Week 8: October 22
 - Week 9: October 29
