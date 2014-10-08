@@ -42,9 +42,9 @@ Class Dates (all Wednesdays)
 - Week 4: September 24 https://gist.github.com/dano1234/2d70bb6d74cc511fcab1#file-music
 - Week 5: October 1 https://gist.github.com/dano1234/2d70bb6d74cc511fcab1#file-babymaking
 - Week 6: October 8 
-- * https://gist.github.com/dano1234/2e8a152408e9b96fc20c#file-backgroundcolor,     
-- * https://gist.github.com/dano1234/348f3f5ddbef1eee9312#file-randomletters,
-- * https://gist.github.com/dano1234/133990440f91ce268a6b
+- https://gist.github.com/dano1234/5a2bbf7c12393232b0cc#file-babymakerarraylist
+- https://gist.github.com/dano1234/2e8a152408e9b96fc20c#file-backgroundcolor,     
+- https://gist.github.com/dano1234/348f3f5ddbef1eee9312#file-randomletters,
 - Week 7: October 22
 - Week 8: October 29
 - Week 9: November 5 
