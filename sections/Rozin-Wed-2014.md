@@ -57,7 +57,6 @@ Class Dates (all Wednesdays)
  - [array of objects] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array_object)
  - [Using array list] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array_list_object)
  - [dragging on screen] (http://itp.nyu.edu/~dr99/ICM/arrays/Drag_Multiple)
-
  - See our homework wiki for pairs and instructions for this week's homework
 - Week 7: October 15
 - Week 8: October 22
