@@ -53,7 +53,7 @@ Class Dates (all Wednesdays)
  - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T-ivUi706s9zlBvAiXvwRvpu8UDspoD4Foad3XgJOOQ)
 
  - [using an array] (http://itp.nyu.edu/~dr99/ICM/arrays/use_arrays)
- - [snake] (http://itp.nyu.edu/~dr99/ICM/snake_js)
+ - [snake] (http://itp.nyu.edu/dr99/ICM/snake_js)
  - [adding to array] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array)
  - [array of objects] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array_object)
  - [Using array list] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array_list_object)
