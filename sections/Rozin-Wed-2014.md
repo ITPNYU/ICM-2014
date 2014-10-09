@@ -51,7 +51,7 @@ Class Dates (all Wednesdays)
    - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T8datPOS_RVG7LrTV8DClDbmfR_kYAwukSnnkjiOfRA/edit#slide=id.g2e49a6a3_2_153)
 - Week 6: October 8
  - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T-ivUi706s9zlBvAiXvwRvpu8UDspoD4Foad3XgJOOQ)
- - [using an array] (http://stu.itp.nyu.edu/home/dr99/public_html/ICM/arrays/use_arrays)
+ - [using an array] (http://itp.nyu.edu/home/dr99/public_html/ICM/arrays/use_arrays)
  - [snake] (http://stu.itp.nyu.edu/home/dr99/public_html/ICM/snake_js)
  - [adding to array] (http://stu.itp.nyu.edu/home/dr99/public_html/ICM/arrays/leave_balls_behind_array)
  - [array of objects] (http://stu.itp.nyu.edu/home/dr99/public_html/ICM/arrays/leave_balls_behind_array_object)
