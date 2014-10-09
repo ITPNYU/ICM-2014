@@ -52,12 +52,12 @@ Class Dates (all Wednesdays)
 - Week 6: October 8
  - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T-ivUi706s9zlBvAiXvwRvpu8UDspoD4Foad3XgJOOQ)
 
- - [using an array] (http://itp.nyu.edu/~dr99/ICM/arrays/use_arrays)
+ - [using an array] (http://itp.nyu.edu/dr99/ICM/arrays/use_arrays)
  - [snake] (http://itp.nyu.edu/dr99/ICM/snake_js)
- - [adding to array] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array)
- - [array of objects] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array_object)
- - [Using array list] (http://itp.nyu.edu/~dr99/ICM/arrays/leave_balls_behind_array_list_object)
- - [dragging on screen] (http://itp.nyu.edu/~dr99/ICM/arrays/Drag_Multiple)
+ - [adding to array] (http://itp.nyu.edu/dr99/ICM/arrays/leave_balls_behind_array)
+ - [array of objects] (http://itp.nyu.edu/dr99/ICM/arrays/leave_balls_behind_array_object)
+ - [Using array list] (http://itp.nyu.edu/dr99/ICM/arrays/leave_balls_behind_array_list_object)
+ - [dragging on screen] (http://itp.nyu.edu/dr99/ICM/arrays/Drag_Multiple)
  - See our homework wiki for pairs and instructions for this week's homework
 - Week 7: October 15
 - Week 8: October 22
