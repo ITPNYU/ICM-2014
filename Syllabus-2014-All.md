@@ -191,7 +191,7 @@ Week 7 -- Pixels
         - [Some additional Face Tracking Examples](https://github.com/shiffman/Face-It/tree/master/OpenCV)   
     - [Getting images from a Network Camera](https://github.com/ITPNYU/Comperas/tree/master/NetworkCameraCaptureObject)
     - Kinect
-        - The state of the kinect is quite in flux.  To use the original Kinect, [you can find some information here](http://shiffman.net/p5/kinect/).  There are also quite a few examples for the Kinect in Dano's [Computational Cameras repo](https://github.com/ITPNYU/Comperas/).
+        - The state of the kinect is quite in flux.  To use the original Kinect, [you can find some information here](http://shiffman.net/p5/kinect/).  However, [it's currently broken with the new Processing](https://github.com/shiffman/OpenKinect-for-Processing/issues/5) and you have to [perform some voodoo operations to get it to work](https://github.com/shiffman/OpenKinect-for-Processing/issues/2).  There are also quite a few examples for the Kinect in Dano's [Computational Cameras repo](https://github.com/ITPNYU/Comperas/).
         - The new Kinect opens up some exciting possibilities.  For now, you'll need to use a PC.  We have some for checkout at ITP and you can talk to [ITP Resident Surya](https://itp.nyu.edu/inwiki/Signup/Surya) how to get tracking data via OSC.
     - [More Camera Tracking Stuff from Dano](https://github.com/ITPNYU/Comperas)
     - Other libraries of note
