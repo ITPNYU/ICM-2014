@@ -48,6 +48,7 @@ Class Dates (all Wednesdays)
    - [Chars](https://gist.github.com/dano1234/348f3f5ddbef1eee9312#file-randomletters)
 - Week 7: October 15
    - [Edges](https://gist.github.com/dano1234/17b99ca5a48ce4d3b86d)
+   - [Track](https://gist.github.com/dano1234/25c99945395ef53a66e2)
 - Week 8: October 22
 - Week 9: November 29 
 - Week 10: November 5
