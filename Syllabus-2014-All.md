@@ -205,7 +205,8 @@ Week 7 -- Pixels
 - Homework: Pixels Project
     - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
-        - Create a video player and build a Processing sketch that allows you to switch between videos, process pixels of a video, scrub a video, etc.  (If you feeling ambitious you could use something from pcomp to create a physical interface to control the video.)
+        - Make a slideshow of images. Check out this [Crossfade Effect](https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels/exercise_15_11_crossfade).
+        - Make a "VJ turntable" for video. Check out [Movie Scrub](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_05_MovieScrub).
         - Use OpenCV face tracking and create a particle system that emanates from a person's mouth or eyes or. . . .?
     - Note that only the names in bold (1/2 of the class) on the wiki will present next week. The second half will present the "data" assignment the following week. You should all complete both assignments, however, and of course you can present both weeks if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
