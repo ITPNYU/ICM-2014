@@ -219,25 +219,23 @@ Week 8 -- Data
     - [Java String documentation](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html)
     - [Chris Kairalla String Basics Demo](http://itp.nyu.edu/~ck987/icm2012/week8/strings/)
     - [loadStrings()](http://processing.org/reference/loadStrings_.html)
+    - [Manuall parsing when there is no API (IMDB example)](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_04_manualparsing/example_18_04_manualparsing.pde)
 - Word Counting
     - [IntDict reference](http://processing.org/reference/IntDict.html)
-    - [Manual parsing and counting](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_6_analyzekinglear_manual/example_18_6_analyzekinglear_manual.pde)
-    - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_6_analyzekinglear_IntDict/example_18_6_analyzekinglear_IntDict.pde)
-    - [Word counting animation](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/CountingStrings/CountingStrings.pde)
-    - [Super advanced counting using HashMap](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/HashMapClass)
+    - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_05_concordance/example_18_05_concordance.pde)
+    - [Word counting animation](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/exercise_18_10_animated_concordance/exercise_18_10_animated_concordance.pde)
 - Data formats
-    - [Table reference](http://processing.org/reference/loadTable_.html), [LoadSaveTable](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveTable)
-    - [XML Reference](http://processing.org/reference/XML.html), [LoadSaveXML](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveXML)
-    - [JSONObject reference](http://processing.org/reference/loadJSONObject_.html), [JSONArray reference](http://processing.org/reference/loadJSONArray_.html), [LoadSaveJSON](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveJSON)   
+    - [Table reference](http://processing.org/reference/loadTable_.html), [LoadSaveTable](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_03_LoadSaveTable)
+    - [XML Reference](http://processing.org/reference/XML.html), [LoadSaveXML](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_07_LoadSaveXML)
+    - [JSONObject reference](http://processing.org/reference/loadJSONObject_.html), [JSONArray reference](http://processing.org/reference/loadJSONArray_.html), [LoadSaveJSON](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_08_LoadSaveJSON)   
 - Threads
-    - http://wiki.processing.org/w/Threading
-    - [thread() example](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/Threads/Threads.pde)
+    - [thread() example](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_09_Thread)
 - Discussion of APIs and Databases
     - [Yahoo Weather library](http://www.onformative.com/lab/google-weather-library-for-processing/)
-    - [NYTimes API using JSON](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013-Examples/Week%208/nyt/nyt.pde)
+    - [Yahoo Weather with XML](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_06_XMLYahooWeather/example_18_06_XMLYahooWeather.pde)
+    - [NYTimes API using JSON](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_10_NYTimes_API/example_18_10_NYTimes_API.pde)
     - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
-    - Connecting to commlab web: [Processing Client](https://github.com/ITPNYU/ICM-2013/blob/master/examples/commlabweb/LoadSaveJSONtoServerPHP/LoadSaveJSONtoServerPHP.pde)[PHP Source](http://itp.nyu.edu/~sve204/commlabweb_fall2013/week6.html)
-- You can read Chapters 17-18 from Learning Processing but chapter 18 is especially out of date.
+    - Write your own API, store data in a database using Servi: Coming soon!
 - Data / Text projects and resources
     - Eyeo Festival Talks:
         - http://vimeo.com/48625144, http://vimeo.com/45838408, http://vimeo.com/45537437, http://vimeo.com/45091945
@@ -255,13 +253,12 @@ Week 8 -- Data
     - [World mapper](http://www.worldmapper.org/)
     - [Wind Map](http://hint.fm/wind/)
 - Homework: Data Project
-    - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch.  Note that certain methods for grabbing data will not work in JavaScript mode.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+    - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch. You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a game that saves a high score list to a text file.
-        -  Track personal data over the course of a few days (exercise, sleep, computer use, eating, etc.).  Enter the data into a CSV file and visualize.
-        -  Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
-        -  Visualize weather data (http://developer.yahoo.com/weather/)
-        - Connect a Processing sketch to a web app that you create (applicable if you are taking ICM web).
-    - If you do not present your pixels assignment, you will present you data assignment next week.
+        - Track personal data over the course of a few days (exercise, sleep, computer use, eating, etc.).  Enter the data into a CSV file and visualize.
+        - Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
+        - [Visualize weather data](http://openweathermap.org/)
+    - If you do not present your pixels assignment, you will present you data assignment.
 
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -----------------------------
