@@ -244,7 +244,7 @@ Week 8 -- Data
     - [Zoe Fraade-Blanar](http://www.binaryspark.com/current/)
     - [Flowing Data](http://flowingdata.com/)
     - [Visual Complexity](http://www.visualcomplexity.com/vc/)
-    - [Adam Parrish](http://www.decontextualize.com/)
+    - [Allison Parrish](http://www.decontextualize.com/)
     - [William Burroughs Cut-ups](http://www.youtube.com/watch?v=6NU3dIdqIBw&feature=related)
     - [Brion Gysin's permutation poetry](http://www.youtube.com/watch?v=26e4cnTUym8)
     - [10 projects using real-time data](http://turbulence.org/blog/2011/10/24/networked-art-10-projects-using-real-time-data/)

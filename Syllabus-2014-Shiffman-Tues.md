@@ -171,30 +171,36 @@ Week 6 -- Vectors and Simulation
 
 Week 7 -- Pixels
 --------------------------------
+- There are video lessons in progress about these topics.  You can watch them here:
+    - [The basics of PImage](https://vimeo.com/108976427)
+    - [Animation with an image](https://vimeo.com/108975592)
+    - [An array of images](https://vimeo.com/108975593)
+    - [The basics of pixels](https://vimeo.com/108975591)
+    - [Image Processing](https://vimeo.com/108975594)
+    - [Image Processing: Pixel Neighbors](https://vimeo.com/108975860)
 - Images
     - Load and display images
     - Writing pixels to screen
     - Reading image pixels, image processing: brightness, threshold, etc
-    - Chapter 15: https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels
-    - Exercise: make an interactive image processing filter
+    - [Chapter 15 examples](https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels)
+    - In class exercise: make an interactive image processing filter
 - Video: 
     - Live video (Capture) and movie playback (Movie)
     - Drawing shapes on screen colored by pixels
-    - Chapter 16: https://github.com/shiffman/LearningProcessing/tree/master/chp16_video
+    - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video)
     - Exercise: Make a mirror that paints your portrait
 - Computer vision:
     - [Screen Pixels](https://github.com/ITPNYU/Comperas/tree/master/Pixels)
     - [Simple color tracking](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_11_ColorTrack)
     - Face detection with [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing/releases)
-        - [Examples](https://github.com/shiffman/Face-It/tree/master/OpenCV)   
-    - [Network Camera](https://github.com/ITPNYU/Comperas/tree/master/NetworkCameraCaptureObject)
+        - [Some additional Face Tracking Examples](https://github.com/shiffman/Face-It/tree/master/OpenCV)   
+    - [Getting images from a Network Camera](https://github.com/ITPNYU/Comperas/tree/master/NetworkCameraCaptureObject)
     - Kinect
-        - [Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
-        - [Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
-        - [Kinect Track Hand](https://github.com/ITPNYU/Comperas/tree/master/KinectSimpleOneHandTracking)
-        - [Kinect Separate User and Background](https://github.com/ITPNYU/Comperas/tree/master/KinectBackgroundRemoval)
-        - [Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
-    - [Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
+        - The state of the kinect is quite in flux.  To use the original Kinect, [you can find some information here](http://shiffman.net/p5/kinect/).  However, [it's currently broken with the new Processing](https://github.com/shiffman/OpenKinect-for-Processing/issues/5) and you have to [perform some voodoo operations to get it to work](https://github.com/shiffman/OpenKinect-for-Processing/issues/2).  There are also quite a few examples for the Kinect in Dano's [Computational Cameras repo](https://github.com/ITPNYU/Comperas/).
+        - [How the kinect works (v1)](http://users.dickinson.edu/~jmac/selected-talks/kinect.pdf)
+        - The new Kinect opens up some exciting possibilities.  For now, you'll need to use a PC.  We have some for checkout at ITP and you can talk to [ITP Resident Surya](https://itp.nyu.edu/inwiki/Signup/Surya) how to get tracking data via OSC.  Another option is to use this [Kinect v2 Processing library](https://github.com/ThomasLengeling/KinectPV2).
+        - [MS Kinect v2 Demo Part 1](http://www.youtube.com/watch?v=OWzjn656kb4), [MS Kinect v2 Demo Part 2](http://www.youtube.com/watch?v=49FUfFkHRnQ)
+    - [More Camera Tracking Stuff from Dano](https://github.com/ITPNYU/Comperas)
     - Other libraries of note
         - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/)
         - [OpenTSPS](http://opentsps.com/)
@@ -202,10 +208,11 @@ Week 7 -- Pixels
 - Related reading:
     - Learning Processing, Chapters 15-16
 - Homework: Pixels Project
-    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  Note that examples that use Capture of Movie will not work in JavaScript mode.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
-        - Create a video player.  Consider combining your pcomp media controller assignment and build a Processing sketch that allows you to switch between videos, process pixels of a video, scrub a video, etc.
-        - Use the kinect to track a skeleton.  Can you "puppeteer" an avatar/animation with the kinect?
+        - Make a slideshow of images. Check out this [Crossfade Effect](https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels/exercise_15_11_crossfade).
+        - Make a "VJ turntable" for video. Check out [Movie Scrub](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_05_MovieScrub).
+        - Use OpenCV face tracking and create a particle system that emanates from a person's mouth or eyes or. . . .?
     - Note that only the names in bold (1/3 of the class) on the wiki will present next week.  You should all complete all assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
 Week 8 -- Data
@@ -217,25 +224,23 @@ Week 8 -- Data
     - [Java String documentation](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html)
     - [Chris Kairalla String Basics Demo](http://itp.nyu.edu/~ck987/icm2012/week8/strings/)
     - [loadStrings()](http://processing.org/reference/loadStrings_.html)
+    - [Manuall parsing when there is no API (IMDB example)](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_04_manualparsing/example_18_04_manualparsing.pde)
 - Word Counting
     - [IntDict reference](http://processing.org/reference/IntDict.html)
-    - [Manual parsing and counting](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_6_analyzekinglear_manual/example_18_6_analyzekinglear_manual.pde)
-    - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_6_analyzekinglear_IntDict/example_18_6_analyzekinglear_IntDict.pde)
-    - [Word counting animation](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/CountingStrings/CountingStrings.pde)
-    - [Super advanced counting using HashMap](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/HashMapClass)
+    - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_05_concordance/example_18_05_concordance.pde)
+    - [Word counting animation](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/exercise_18_10_animated_concordance/exercise_18_10_animated_concordance.pde)
 - Data formats
-    - [Table reference](http://processing.org/reference/loadTable_.html), [LoadSaveTable](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveTable)
-    - [XML Reference](http://processing.org/reference/XML.html), [LoadSaveXML](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveXML)
-    - [JSONObject reference](http://processing.org/reference/loadJSONObject_.html), [JSONArray reference](http://processing.org/reference/loadJSONArray_.html), [LoadSaveJSON](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveJSON)   
+    - [Table reference](http://processing.org/reference/loadTable_.html), [LoadSaveTable](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_03_LoadSaveTable)
+    - [XML Reference](http://processing.org/reference/XML.html), [LoadSaveXML](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_07_LoadSaveXML)
+    - [JSONObject reference](http://processing.org/reference/loadJSONObject_.html), [JSONArray reference](http://processing.org/reference/loadJSONArray_.html), [LoadSaveJSON](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_08_LoadSaveJSON)   
 - Threads
-    - http://wiki.processing.org/w/Threading
-    - [thread() example](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/Threads/Threads.pde)
+    - [thread() example](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/example_18_09_Thread)
 - Discussion of APIs and Databases
     - [Yahoo Weather library](http://www.onformative.com/lab/google-weather-library-for-processing/)
-    - [NYTimes API using JSON](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013-Examples/Week%208/nyt/nyt.pde)
+    - [Yahoo Weather with XML](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_06_XMLYahooWeather/example_18_06_XMLYahooWeather.pde)
+    - [NYTimes API using JSON](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_10_NYTimes_API/example_18_10_NYTimes_API.pde)
     - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
-    - Connecting to commlab web: [Processing Client](https://github.com/ITPNYU/ICM-2013/blob/master/examples/commlabweb/LoadSaveJSONtoServerPHP/LoadSaveJSONtoServerPHP.pde)[PHP Source](http://itp.nyu.edu/~sve204/commlabweb_fall2013/week6.html)
-- You can read Chapters 17-18 from Learning Processing but chapter 18 is especially out of date.
+    - Write your own API, store data in a database using Servi: Coming soon!
 - Data / Text projects and resources
     - Eyeo Festival Talks:
         - http://vimeo.com/48625144, http://vimeo.com/45838408, http://vimeo.com/45537437, http://vimeo.com/45091945
@@ -244,7 +249,7 @@ Week 8 -- Data
     - [Zoe Fraade-Blanar](http://www.binaryspark.com/current/)
     - [Flowing Data](http://flowingdata.com/)
     - [Visual Complexity](http://www.visualcomplexity.com/vc/)
-    - [Adam Parrish](http://www.decontextualize.com/)
+    - [Allison Parrish](http://www.decontextualize.com/)
     - [William Burroughs Cut-ups](http://www.youtube.com/watch?v=6NU3dIdqIBw&feature=related)
     - [Brion Gysin's permutation poetry](http://www.youtube.com/watch?v=26e4cnTUym8)
     - [10 projects using real-time data](http://turbulence.org/blog/2011/10/24/networked-art-10-projects-using-real-time-data/)
@@ -253,12 +258,12 @@ Week 8 -- Data
     - [World mapper](http://www.worldmapper.org/)
     - [Wind Map](http://hint.fm/wind/)
 - Homework: Data Project
-    - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch.  Note that certain methods for grabbing data will not work in JavaScript mode.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+    - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch. You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a game that saves a high score list to a text file.
-        -  Track personal data over the course of a few days (exercise, sleep, computer use, eating, etc.).  Enter the data into a CSV file and visualize.
-        -  Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
-        -  Visualize weather data (http://developer.yahoo.com/weather/)
-        - Connect a Processing sketch to a web app that you create (applicable if you are taking ICM web).
+        - Track personal data over the course of a few days (exercise, sleep, computer use, eating, etc.).  Enter the data into a CSV file and visualize.
+        - Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
+        - [Visualize weather data](http://openweathermap.org/)
+    - If you do not present your pixels assignment, you will present you data assignment.
     - If you did not present your simulation or pixels assignment, you will present you data assignment next week.
 
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
