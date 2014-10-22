@@ -218,13 +218,22 @@ Week 7 -- Pixels
 Week 8 -- Data
 -----------------------------
 - Pixel project presentations.  
+- Video Lessons
+    - [Strings and Drawing Text in Processing](https://vimeo.com/109527872)
+    - [split() and join()](https://vimeo.com/109631915)
+    - [loadStrings()](https://vimeo.com/109529516)
+    - [word counting](https://vimeo.com/109529518)
+    - Table (coming soon)
+    - XML / JSON (coming soon)
+    - [Manual Parsing](https://vimeo.com/109530420) - audio off, will be re-recorded soon
+    - Threads
 - Basics of working with Strings
     - Tutorial: http://processing.org/learning/text/
     - [Updated Learning Processing example](https://github.com/shiffman/LearningProcessing/tree/master/chp17_strings)
     - [Java String documentation](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html)
     - [Chris Kairalla String Basics Demo](http://itp.nyu.edu/~ck987/icm2012/week8/strings/)
     - [loadStrings()](http://processing.org/reference/loadStrings_.html)
-    - [Manuall parsing when there is no API (IMDB example)](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_04_manualparsing/example_18_04_manualparsing.pde)
+    - [Manually parsing when there is no API (IMDB example)](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_04_manualparsing/example_18_04_manualparsing.pde)
 - Word Counting
     - [IntDict reference](http://processing.org/reference/IntDict.html)
     - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_05_concordance/example_18_05_concordance.pde)
@@ -241,29 +250,13 @@ Week 8 -- Data
     - [NYTimes API using JSON](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_10_NYTimes_API/example_18_10_NYTimes_API.pde)
     - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
     - Write your own API, store data in a database using Servi: Coming soon!
-- Data / Text projects and resources
-    - Eyeo Festival Talks:
-        - http://vimeo.com/48625144, http://vimeo.com/45838408, http://vimeo.com/45537437, http://vimeo.com/45091945
-    - [What is Electronic Writing](http://www.arras.net/brown_ewriting/?page_id=54)
-    - [Jer Thorp](http://blog.blprnt.com/)
-    - [Zoe Fraade-Blanar](http://www.binaryspark.com/current/)
-    - [Flowing Data](http://flowingdata.com/)
-    - [Visual Complexity](http://www.visualcomplexity.com/vc/)
-    - [Allison Parrish](http://www.decontextualize.com/)
-    - [William Burroughs Cut-ups](http://www.youtube.com/watch?v=6NU3dIdqIBw&feature=related)
-    - [Brion Gysin's permutation poetry](http://www.youtube.com/watch?v=26e4cnTUym8)
-    - [10 projects using real-time data](http://turbulence.org/blog/2011/10/24/networked-art-10-projects-using-real-time-data/)
-    - [Visual thesaurus](http://www.visualthesaurus.com/)
-    - [Cabspotting](http://cabspotting.org/)
-    - [World mapper](http://www.worldmapper.org/)
-    - [Wind Map](http://hint.fm/wind/)
+- ***[Data Sources and Inspirational Work](https://github.com/ITPNYU/ICM-2014/wiki/Data-Links)***
 - Homework: Data Project
     - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch. You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a game that saves a high score list to a text file.
         - Track personal data over the course of a few days (exercise, sleep, computer use, eating, etc.).  Enter the data into a CSV file and visualize.
         - Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
         - [Visualize weather data](http://openweathermap.org/)
-    - If you do not present your pixels assignment, you will present you data assignment.
     - If you did not present your simulation or pixels assignment, you will present you data assignment next week.
 
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)

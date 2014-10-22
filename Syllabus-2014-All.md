@@ -216,7 +216,7 @@ Week 8 -- Data
 - Video Lessons
     - [Strings and Drawing Text in Processing](https://vimeo.com/109527872)
     - [split() and join()](https://vimeo.com/109631915)
-    - [loadStrings()](https://vimeo.com/109529516) - audio off, will be re-recorded soon
+    - [loadStrings()](https://vimeo.com/109529516)
     - [word counting](https://vimeo.com/109529518)
     - Table (coming soon)
     - XML / JSON (coming soon)
