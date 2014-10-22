@@ -246,20 +246,15 @@ Week 8 -- Data
     - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
     - Write your own API, store data in a database using Servi: Coming soon!
 - Data / Text projects and resources
-    - Eyeo Festival Talks:
-        - http://vimeo.com/48625144, http://vimeo.com/45838408, http://vimeo.com/45537437, http://vimeo.com/45091945
+    - [Eyeo Festival Talks](https://vimeo.com/eyeofestival)
     - [What is Electronic Writing](http://www.arras.net/brown_ewriting/?page_id=54)
     - [Jer Thorp](http://blog.blprnt.com/)
-    - [Zoe Fraade-Blanar](http://www.binaryspark.com/current/)
     - [Flowing Data](http://flowingdata.com/)
+    - [style.org](http://style.org/)
     - [Visual Complexity](http://www.visualcomplexity.com/vc/)
     - [Allison Parrish](http://www.decontextualize.com/)
-    - [William Burroughs Cut-ups](http://www.youtube.com/watch?v=6NU3dIdqIBw&feature=related)
-    - [Brion Gysin's permutation poetry](http://www.youtube.com/watch?v=26e4cnTUym8)
-    - [10 projects using real-time data](http://turbulence.org/blog/2011/10/24/networked-art-10-projects-using-real-time-data/)
+    - [Office of Creative Research](http://o-c-r.org/)
     - [Visual thesaurus](http://www.visualthesaurus.com/)
-    - [Cabspotting](http://cabspotting.org/)
-    - [World mapper](http://www.worldmapper.org/)
     - [Wind Map](http://hint.fm/wind/)
 - Homework: Data Project
     - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch. You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
