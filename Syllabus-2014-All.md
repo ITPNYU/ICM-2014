@@ -245,17 +245,7 @@ Week 8 -- Data
     - [NYTimes API using JSON](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_10_NYTimes_API/example_18_10_NYTimes_API.pde)
     - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
     - Write your own API, store data in a database using Servi: Coming soon!
-- Data / Text projects and resources
-    - [Eyeo Festival Talks](https://vimeo.com/eyeofestival)
-    - [What is Electronic Writing](http://www.arras.net/brown_ewriting/?page_id=54)
-    - [Jer Thorp](http://blog.blprnt.com/)
-    - [Flowing Data](http://flowingdata.com/)
-    - [style.org](http://style.org/)
-    - [Visual Complexity](http://www.visualcomplexity.com/vc/)
-    - [Allison Parrish](http://www.decontextualize.com/)
-    - [Office of Creative Research](http://o-c-r.org/)
-    - [Visual thesaurus](http://www.visualthesaurus.com/)
-    - [Wind Map](http://hint.fm/wind/)
+- ***[Projects for Inspiration and a list of APIs]***
 - Homework: Data Project
     - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch. You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a game that saves a high score list to a text file.
