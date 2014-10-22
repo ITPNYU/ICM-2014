@@ -213,13 +213,22 @@ Week 7 -- Pixels
 Week 8 -- Data
 -----------------------------
 - Pixel project presentations.  
+- Video Lessons
+    - [Strings and Drawing Text in Processing](https://vimeo.com/109527872)
+    - [split() and join()](https://vimeo.com/109631915)
+    - [loadStrings()](https://vimeo.com/109529516) - audio off, will be re-recorded soon
+    - [word counting](https://vimeo.com/109529518)
+    - Table (coming soon)
+    - XML / JSON (coming soon)
+    - [Manual Parsing](https://vimeo.com/109530420) - audio off, will be re-recorded soon
+    - Threads
 - Basics of working with Strings
     - Tutorial: http://processing.org/learning/text/
     - [Updated Learning Processing example](https://github.com/shiffman/LearningProcessing/tree/master/chp17_strings)
     - [Java String documentation](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html)
     - [Chris Kairalla String Basics Demo](http://itp.nyu.edu/~ck987/icm2012/week8/strings/)
     - [loadStrings()](http://processing.org/reference/loadStrings_.html)
-    - [Manuall parsing when there is no API (IMDB example)](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_04_manualparsing/example_18_04_manualparsing.pde)
+    - [Manually parsing when there is no API (IMDB example)](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_04_manualparsing/example_18_04_manualparsing.pde)
 - Word Counting
     - [IntDict reference](http://processing.org/reference/IntDict.html)
     - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_05_concordance/example_18_05_concordance.pde)
