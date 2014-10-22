@@ -51,6 +51,10 @@ Class Dates (all Wednesdays)
    - [Track](https://gist.github.com/dano1234/25c99945395ef53a66e2)
    - [kinect](https://gist.github.com/dano1234/5d14835b27743f2ae108)
 - Week 8: October 22
+    -[Load Strings](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/exercise_18_06_loadStrings)
+   - [Count Words](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_05_concordance/example_18_05_concordance.pde)
+   - [Animate Count Words]()
+   - 
 - Week 9: November 29 
 - Week 10: November 5
 - Week 11: November 12
