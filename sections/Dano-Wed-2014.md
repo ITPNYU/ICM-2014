@@ -54,7 +54,7 @@ Class Dates (all Wednesdays)
     - [Load Strings](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/exercise_18_06_loadStrings)
     - [Count Words](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_05_concordance/example_18_05_concordance.pde)
    - [Load XML](https://gist.github.com/dano1234/b1063238b43dc3e5ec60)
-   - 
+   
 - Week 9: November 29 
 - Week 10: November 5
 - Week 11: November 12
