@@ -218,7 +218,7 @@ Week 8 -- Data
     - [split() and join()](https://vimeo.com/109631915)
     - [loadStrings()](https://vimeo.com/109529516)
     - [word counting](https://vimeo.com/109529518)
-    - Table (coming soon)
+    - [Tabular Data](https://vimeo.com/109833981)
     - XML / JSON (coming soon)
     - [Manual Parsing](https://vimeo.com/109530420) - audio off, will be re-recorded soon
     - Threads
