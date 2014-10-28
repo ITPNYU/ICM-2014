@@ -82,6 +82,24 @@ Class Dates (all Wednesdays)
     - [Examples from class] (http://itp.nyu.edu/dr99/ICM/Strings.zip)
     -  [examples from Learning Processing] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data)
 - Week 9: October 29
+     - PGraphics
+        - [Snow PGraphis] (http://itp.nyu.edu/dr99/ICM/snow_PGraphics/snow_PGraphics.pde)
+     - Transforms
+        - [translate rectangles] (http://itp.nyu.edu/dr99/ICM/3D/translate_rectangles.pde)
+        - [scale push matrix] (http://itp.nyu.edu/dr99/ICM/3D/scale_pushMatrix.pde)
+        - [video kaleidoscope] (http://itp.nyu.edu/dr99/ICM/3D/video_kaleidoscope.pde)
+    - Time / Timer
+        - [rotate- clock] (http://itp.nyu.edu/dr99/ICM/3D/clock.pde)
+        - [timer] (http://itp.nyu.edu/dr99/ICM/timer.pde)
+    - 3D
+        - [face] (http://itp.nyu.edu/dr99/ICM/3D/face.pde)
+        - [grid of boxes] (http://itp.nyu.edu/dr99/ICM/3D/grid_of_boxes.pde)
+        - [color per vertex] (http://itp.nyu.edu/dr99/ICM/3D/vertex_color.pde)
+        - [video faces] (http://itp.nyu.edu/dr99/ICM/3D/video_faces.pde)
+        - [texture] (http://itp.nyu.edu/dr99/ICM/3D/vertex_texture.pde)
+        - [all examples in zip] (http://itp.nyu.edu/dr99/ICM/3D/all_3d_examples.zip)
+    - video tracking and masking
+        - [all examples in zip] (http://itp.nyu.edu/dr99/ICM/ICM_class_8.zip)
 - Week 10: November 5
 - Week 11: November 12
 - Week 12: November 19
