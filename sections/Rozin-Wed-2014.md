@@ -88,17 +88,17 @@ Class Dates (all Wednesdays)
         - [translate rectangles] (http://itp.nyu.edu/dr99/ICM/3D/translate_rectangles.pde)
         - [scale push matrix] (http://itp.nyu.edu/dr99/ICM/3D/scale_pushMatrix.pde)
         - [video kaleidoscope] (http://itp.nyu.edu/dr99/ICM/3D/video_kaleidoscope.pde)
-    - Time / Timer
+     - Time / Timer
         - [rotate- clock] (http://itp.nyu.edu/dr99/ICM/3D/clock.pde)
         - [timer] (http://itp.nyu.edu/dr99/ICM/timer.pde)
-    - 3D
+     - 3D
         - [face] (http://itp.nyu.edu/dr99/ICM/3D/face.pde)
         - [grid of boxes] (http://itp.nyu.edu/dr99/ICM/3D/grid_of_boxes.pde)
         - [color per vertex] (http://itp.nyu.edu/dr99/ICM/3D/vertex_color.pde)
         - [video faces] (http://itp.nyu.edu/dr99/ICM/3D/video_faces.pde)
         - [texture] (http://itp.nyu.edu/dr99/ICM/3D/vertex_texture.pde)
         - [all examples in zip] (http://itp.nyu.edu/dr99/ICM/3D/all_3d_examples.zip)
-    - video tracking and masking
+     - video tracking and masking
         - [all examples in zip] (http://itp.nyu.edu/dr99/ICM/ICM_class_8.zip)
 - Week 10: November 5
 - Week 11: November 12
