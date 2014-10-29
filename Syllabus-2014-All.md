@@ -257,7 +257,7 @@ Week 8 -- Data
 
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -----------------------------
-- Sound in Processing!
+- [Sound in Processing!](https://github.com/shiffman/LearningProcessing/tree/master/chp20_sound)
 - Translate, Rotate, Scale: http://processing.org/learning/transform2d/
     - Examples from Chris Kairalla
         - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
