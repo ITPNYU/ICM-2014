@@ -222,6 +222,7 @@ Week 8 -- Data
     - [XML / JSON](https://vimeo.com/110322975)
     - [Manual Parsing](https://vimeo.com/109530420)
     - Threads
+    - [Many more video tutorials from Matthew Epler](https://vimeo.com/album/2573675)
 - Basics of working with Strings
     - Tutorial: http://processing.org/learning/text/
     - [Updated Learning Processing example](https://github.com/shiffman/LearningProcessing/tree/master/chp17_strings)
