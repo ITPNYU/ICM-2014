@@ -219,8 +219,8 @@ Week 8 -- Data
     - [loadStrings()](https://vimeo.com/109529516)
     - [word counting](https://vimeo.com/109529518)
     - [Tabular Data](https://vimeo.com/109833981)
-    - XML / JSON (coming soon)
-    - [Manual Parsing](https://vimeo.com/109530420) - audio off, will be re-recorded soon
+    - [XML / JSON](https://vimeo.com/110322975)
+    - [Manual Parsing](https://vimeo.com/109530420)
     - Threads
 - Basics of working with Strings
     - Tutorial: http://processing.org/learning/text/
