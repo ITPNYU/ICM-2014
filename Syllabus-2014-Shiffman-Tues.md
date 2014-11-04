@@ -262,35 +262,23 @@ Week 8 -- Data
 
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -----------------------------
-- Translate, Rotate, Scale: http://processing.org/learning/transform2d/
-    - Examples from Chris Kairalla
-        - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
-        - [Danny Rozin's Clock](http://itp.nyu.edu/~ck987/icm2012/week9/clock/)
-        - [Danny Rozin's 3D Box Grid](http://itp.nyu.edu/~ck987/icm2012/week9/3d_box_grid/)
-        - [Solar System](http://itp.nyu.edu/~ck987/icm2012/week9/planets/) - Advanced Level Demo
+- [Sound in Processing!](https://github.com/shiffman/LearningProcessing/tree/master/chp20_sound)
 - P3D: http://processing.org/learning/p3d/
     - 3D shapes, vertices
     - textures
     - lighting
     - shaders
-- PShape: http://processing.org/learning/pshape/
 - PGraphics
     - Examples from Chris Kairalla
         - [Simple PGraphics Demo](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics/)
         - [PGraphics Grid](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics_grid/)
-- PVector: 
-    - [In-Class examples](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week11/PVectorExamples)
-    - [Nature of Code vector chapter](http://natureofcode.com/book/chapter-1-vectors/)
-- ArrayList
-    - [History of mouse movements](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/PVectorExamples/TrailPVectorArrayList/TrailPVectorArrayList.pde)
-    - [Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)
-    - [Simple Particle System](http://processing.org/learning/topics/simpleparticlesystem.html)
 - Java
     - [Robot Class example](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/RobotExample/RobotExample.pde), [Robot Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html)
     - [Try/Catch, Exceptions](http://wiki.processing.org/w/Exceptions)
     - [Processing in Eclipse](http://processing.org/learning/eclipse/)
     - [Processing in Sublime](https://github.com/b-g/processing-sublime)
-- p5.js
+- [p5.js](http://p5js.org)
+- network communication and [OSC](http://www.sojamo.de/libraries/oscP5/)
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 Week 10 --  Propose Final Projects
